@@ -1,7 +1,5 @@
-LudumDare27
-===========
-
-Compo.
+LudumDare27 Compo
+=================
 
 Memorizing game. Controls: Mouse.
 
